@@ -1,5 +1,4 @@
-## Název projektu  
-UFC analyza
+## UFC analyza 
 Projekt je zaměřený na **UFC zápasy** a zahrnuje:
 - Čištění dat (odstranění chyb a duplicit)
 - Zpracování dat (počítání statistik a ukazatelů)
