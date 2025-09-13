@@ -15,6 +15,9 @@ Použité techniky:
 ## Další kroky
 - Přidat více datasetů k porovnání
 - Rozšířit vizualizace o pokročilé grafy
+Data použitá v projektu pocházejí z platformy **Kaggle**:  
+[UFC - Fight & Fighter Data](https://www.kaggle.com/datasets)  
+> *(Poznámka: doporučuje se doplnit konkrétní odkaz na použitý dataset, pokud je znám.)*
 
 
 
